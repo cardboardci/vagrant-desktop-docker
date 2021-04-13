@@ -1,0 +1,19 @@
+slug: vagrant-desktop-docker
+description: This repository provides a base Docker Desktop environment, sandboxed on your local computer.
+project: cardboardci
+namespace: env
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2017
+topics: |-
+  [
+    "vagrant",
+    "shell",
+    "virtualbox",
+    "desktop-environment",
+    "docker",
+    "experiments"
+  ]
